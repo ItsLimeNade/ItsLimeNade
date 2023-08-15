@@ -10,5 +10,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLimeNade&layout=compact&theme=dracula)
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,vue,vite,tailwind,discord,bots,vscode,py,raspberrypi,arduino,atom,vercel,react,powershell,css,electron,express,gamemakerstudio,github,html,lua,md,netlify,stackoverflow,sketchup&perline)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,svelte,supabase,vue,vite,tailwind,discord,bots,vscode,py,raspberrypi,arduino,atom,vercel,react,powershell,css,electron,express,gamemakerstudio,github,html,lua,md,netlify,stackoverflow,sketchup&perline)](https://skillicons.dev)
 
