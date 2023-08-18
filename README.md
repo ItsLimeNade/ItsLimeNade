@@ -1,6 +1,6 @@
 # Hey I'm LimeNade
 ### 🕐 I currently work for [Scratch for Discord](https://github.com/scratch-for-discord) and [DisCodes](https://github.com/Dis-Codes) as a Web Dev 🌐
-#### ▶ I'm a JavaScript & TypeScript developer and I love svelteKit Paired with Supabase and Tailwind!
+#### ▶ I'm a JavaScript & TypeScript developer and I love SvelteKit paired with Supabase and Tailwind!
 #### I make Discord bots with Discord.js and also Web Applications with SvelteKit and Supabase! 💻
 
 ### 📈Here are some stats about me:
