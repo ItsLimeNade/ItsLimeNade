@@ -1,14 +1,14 @@
 # Hey I'm LimeNade
-### 🕐 I currently work for [DisCodes](https://github.com/Dis-Codes) and [Scratch for Discord](https://github.com/scratch-for-discord) as a Web Dev 🌐
-#### ▶ I'm a JavaScript & TypeScript developer and I love SvelteKit paired with Supabase and Tailwind!
-#### I make Discord bots with Discord.js and also Web Applications with SvelteKit and Supabase! 💻
+### 🌐 I'm a French Web Dev currently working on 
+- [DisCodes](https://github.com/Dis-Codes)
+- [Suroi](https://github.com/HasangerGames/suroi)
+- [Scratch for Discord](https://github.com/scratch-for-discord)
 
 ### 📈Here are some stats about me:
 
-![LimeNade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsLimeNade&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLimeNade&layout=compact&theme=dracula)
+![LimeNade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsLimeNade&show_icons=true&theme=dracula) --- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLimeNade&layout=compact&theme=dracula)
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,svelte,supabase,vue,vite,tailwind,discord,bots,vscode,py,raspberrypi,arduino,atom,vercel,react,powershell,css,electron,express,gamemakerstudio,github,html,lua,md,netlify,stackoverflow,sketchup&perline)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,svelte,vue,supabase,vite,react,electron,express,tailwind,py,arduino,vercel,github&perline)](https://skillicons.dev)
+#### And a lot more!
 
