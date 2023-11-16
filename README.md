@@ -6,7 +6,7 @@
 
 ### 📈Here are some stats about me:
 
-![LimeNade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsLimeNade&show_icons=true&theme=dracula) --- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLimeNade&layout=compact&theme=dracula)
+![LimeNade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsLimeNade&show_icons=true&theme=nord) --- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLimeNade&layout=compact&theme=nord)
 
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,svelte,vue,supabase,vite,react,electron,express,tailwind,py,arduino,vercel,github&perline)](https://skillicons.dev)
