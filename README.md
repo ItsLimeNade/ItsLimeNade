@@ -1,6 +1,6 @@
 # Hey I'm LimeNade
 ### 🌐 I'm a French Web Dev currently working on 
-- [DisCodes](https://github.com/Dis-Codes)
+- [DisCodes](https://github.com/ItsLimeNade/DisCodes)
 - [Suroi](https://github.com/HasangerGames/suroi)
 - [Scratch for Discord](https://github.com/scratch-for-discord)
 
