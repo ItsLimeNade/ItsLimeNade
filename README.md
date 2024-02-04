@@ -1,5 +1,9 @@
 # Hey I'm LimeNade
-### 🌐 I'm a French Web Dev currently working on 
+### 🌐 I'm a French Web Dev currently working on
+- [Discodes](https://github.com/Dis-codes/)
+- [BeeGee](https://github.com/ItsLimeNade/BeeGee)
+- [FluffDB](https://github.com/ItsLimeNade/FluffDB)
+- [Libre-client](https://github.com/ItsLimeNade/Libre-client)
 - [Suroi](https://github.com/HasangerGames/suroi)
 - [Scratch for Discord](https://github.com/scratch-for-discord)
 
