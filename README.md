@@ -1,17 +1,19 @@
-# Hey I'm LimeNade
-### 🌐 I'm a French Web Dev currently working on
-- [Discodes](https://github.com/Dis-codes/) - A visual-based editor to make discord bots
-- [Suroi](https://github.com/HasangerGames/suroi) - 2D online battle royale made using pixiJS
-- [BeeGee](https://github.com/ItsLimeNade/BeeGee) - An app to easly share your blood glucose data anywhere!
-- [FluffDB](https://github.com/ItsLimeNade/FluffDB) - A simple JSON database written in typescript
-- [Libre-client](https://github.com/ItsLimeNade/Libre-client) - An easy way to get your libre 2/3 CGM data!
-- [Scratch for Discord](https://github.com/scratch-for-discord)
+# Hey, I'm LimeNade 👋
 
-### 📈Here are some stats about me:
+### About me  
+I'm a **French developer** studying **Electronics and Computer Science** at **Sorbonne University**. <br/>
+I mainly work with **Rust** and **TypeScript**. I’m also becoming more and more passionate about **low-level systems, embedded software, and performance-oriented programming**.  
 
-![LimeNade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsLimeNade&show_icons=true&theme=nord) --- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLimeNade&layout=compact&theme=nord)
+### Current projects  
+- 🩸 [**Beetroot**](https://github.com/ItsLimeNade/Beetroot) — A **Rust Discord Bot** made for diabetics using Nightscout.
+- 🧱 [**Scratch for Discord**](https://github.com/scratch-for-discord) — A **visual programming platform** for building Discord bots without code  
 
-## My skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,svelte,vue,supabase,vite,react,electron,lua,tailwind,py,arduino,vercel,github&perline)](https://skillicons.dev)
-#### And a lot more!
+*(Previously worked on various web-related projects — now diving deeper into systems and embedded development.)*
+
+### Tech stack  
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,py,lua,arduino,git,github,react,vite,svelte,linux&perline=10)](https://skillicons.dev)  
+Also experienced with **Svelte**, **Vue**, **Tailwind**, **Electron** and more, but now focusing primarily on Rust-based and low-level projects.
+
+### Stats  
+![LimeNade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsLimeNade&show_icons=true&hide=contribs)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLimeNade&layout=compact)
 
