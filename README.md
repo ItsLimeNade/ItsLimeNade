@@ -8,7 +8,7 @@ I mainly work with **Rust** and **TypeScript**. I’m also becoming more and mor
 - 🩸 [**Beetroot**](https://github.com/ItsLimeNade/Beetroot) — A **Rust Discord Bot** made for diabetics using Nightscout.
 - 🧱 [**Scratch for Discord**](https://github.com/scratch-for-discord) — A **visual programming platform** for building Discord bots without code  
 
-*(Previously worked on various web-related projects — now diving deeper into systems and embedded development.)*
+*(Previously worked on various web-related projects, now diving deeper into systems and embedded development.)*
 
 ### Tech stack  
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,py,lua,arduino,git,github,react,vite,svelte,linux&perline=10)](https://skillicons.dev)  
