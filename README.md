@@ -11,7 +11,7 @@ I mainly work with **Rust** and **TypeScript**. I’m also becoming more and mor
 *(Previously worked on various web-related projects, now diving deeper into systems and embedded development.)*
 
 ### Tech stack  
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,py,lua,arduino,git,github,react,vite,svelte,linux&perline=10)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,py,lua,arduino,git,github,react,vite,svelte,linux&perline=10)](https://skillicons.dev)  
 Also experienced with **Svelte**, **Vue**, **Tailwind**, **Electron** and more, but now focusing primarily on Rust-based and low-level projects.
 
 ### Stats  
